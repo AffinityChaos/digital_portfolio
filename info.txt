@@ -1,0 +1,9 @@
+[
+{"SKU":"jkc7453","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jkc7453-cart.jpg"},
+{"SKU":"jkc7457","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jkc7457-cart.jpg"},
+{"SKU":"jmy1856","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jmy1856.jpg"},{"SKU":"jmy1960","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jmy1960-cart.jpg"},  {"SKU":"jmy2070","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jmy2070-cart.jpg"},
+{"SKU":"jmy2099","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jmy2099-cart.jpg"},  {"SKU":"jmy2106","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jmy2106-cart.jpg"},
+{"SKU":"jra136","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jra136-cart.jpg"},
+{"SKU":"jra141","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jra141-cart.jpg"},
+{"SKU":"jtu766","skuimage":"https://medias.utsavfashion.com/media/wysiwyg/2026/cart/2909/jtu766-cart.jpg"}
+]
