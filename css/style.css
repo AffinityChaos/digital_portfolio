@@ -323,11 +323,17 @@
   .max-w-xl {
     max-width: var(--container-xl);
   }
+  .min-w-\[300px\] {
+    min-width: 300px;
+  }
   .min-w-\[380px\] {
     min-width: 380px;
   }
   .list-disc {
     list-style-type: disc;
+  }
+  .grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .grid-cols-12 {
     grid-template-columns: repeat(12, minmax(0, 1fr));
@@ -618,6 +624,14 @@
     .md\:py-12 {
       padding-block: calc(var(--spacing) * 12);
     }
+    .md\:text-lg {
+      font-size: var(--text-lg);
+      line-height: var(--tw-leading, var(--text-lg--line-height));
+    }
+    .md\:text-sm {
+      font-size: var(--text-sm);
+      line-height: var(--tw-leading, var(--text-sm--line-height));
+    }
   }
   @media (width >= 64rem) {
     .lg\:fixed {
@@ -685,6 +699,10 @@
     .lg\:text-8xl {
       font-size: var(--text-8xl);
       line-height: var(--tw-leading, var(--text-8xl--line-height));
+    }
+    .lg\:text-lg {
+      font-size: var(--text-lg);
+      line-height: var(--tw-leading, var(--text-lg--line-height));
     }
     .lg\:text-\[44px\] {
       font-size: 44px;
